@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use WRRA Core 1.0, please cite this specification."
+title: "WRRA Core 1.0: A Domain-Agnostic Execution Architecture"
+type: generic
+version: 1.0.0
+date-released: 2026-09-07
+authors:
+  - family-names: Choi
+    given-names: Wonsik
+license: CC-BY-4.0
+repository-code: "https://github.com/Wonsik-Choi-janefather/wrra-core"
+url: "https://github.com/Wonsik-Choi-janefather/wrra-core"
+abstract: >-
+  Frozen domain-agnostic execution specification based on minimum viable
+  computation, common carriers, phenotypes, fixed-present states, ownership,
+  boundaries, renderers, records and ledgers, and fail-closed claims.
+keywords:
+  - WRRA
+  - minimum computation
+  - common carrier
+  - phenotype
+  - fixed present
+  - domain profile
+  - complex systems
+  - Minimal Computing Cosmology
