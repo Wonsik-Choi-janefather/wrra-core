@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use WRRA Core 1.0, please cite this specification."
 title: "WRRA Core 1.0: A Domain-Agnostic Execution Architecture"
 type: generic
+doi: 10.5281/zenodo.22650956
 version: 1.0.0
 date-released: 2026-09-07
 authors:
