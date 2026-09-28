@@ -56,6 +56,8 @@ Structural executability is not automatically presented as empirical validation.
 
 ## Citation
 
+Zenodo record: [10.5281/zenodo.22650956](https://doi.org/10.5281/zenodo.22650956) (WRRA Core 1.0, version 1.0).
+
 Choi, Wonsik. *WRRA Core 1.0: A Domain-Agnostic Execution Architecture*. Version 1.0.0, frozen 7 September 2026.
 
 ## License
